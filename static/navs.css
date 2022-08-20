@@ -1,0 +1,52 @@
+.nav-link1{
+    padding: 20px 40px;
+    color: white;
+    padding-left: 360px;
+    padding-right: 130px;
+}
+.nav-link1:hover {
+    color: rgb(109, 70, 155);
+
+}
+
+.nav-link2{
+    padding: 20px 40px;
+    color: white;
+    padding-right: 130px;
+}
+.nav-link2:hover {
+    color: rgb(109, 70, 155);
+
+}
+
+.nav-link3{
+    padding: 20px 40px;
+    color: white;
+    padding-right: 130px;
+}
+.nav-link3:hover {
+    color: rgb(109, 70, 155);
+
+}
+.nav-link4{
+    padding: 20px 40px;
+    color: white;
+    padding-right: 100px;
+}
+.nav-link4:hover {
+    color: rgb(109, 70, 155);
+
+}
+
+.nav-link5{
+    padding: 20px 40px;
+    color: white;
+}
+.nav-link5:hover {
+    color: rgb(109, 70, 155);
+
+}
+
+.container-fluid{
+    background-color: rgb(104, 104, 235);
+}
